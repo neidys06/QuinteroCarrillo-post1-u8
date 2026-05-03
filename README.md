@@ -165,10 +165,10 @@ Diferentes.
 ## Capturas de Pantalla
 
 ### Checkpoint 1 — REP MOVSB
-![Copia con MOVSB](capturas/cap1_movsb.png)
+![Copia con MOVSB](capturas/cap1-movsb.png)
 
 ### Checkpoint 2 — REP MOVSW optimizado
-![Copia con MOVSW](capturas/cap2_movsw.png)
+![Copia con MOVSW](capturas/cap2-movsw.png)
 
 ### Checkpoint 3 — REPNE SCASB (carácter hallado)
 ![SCASB hallado](capturas/cap3a_scasb_hallado.png)
