@@ -166,8 +166,8 @@ Diferentes.
 
 | Archivo | Checkpoint | Descripción |
 |---------|-----------|-------------|
-| `cap1_movsb_ok.png` | 1 | Salida "Copiado: HOLA, MUNDO!" con MOVSB |
-| `cap2_movsw_ok.png` | 2 | Salida idéntica con MOVSW optimizado |
-| `cap3a_scasb_hallado.png` | 3 | Búsqueda exitosa: posición 13 |
-| `cap3b_scasb_no_hallado.png` | 3 | Búsqueda fallida: "No encontrado." |
-| `cap4_cmpsb_ok.png` | 4 | "Iguales." y "Diferentes." correctos |
+| (capturas/cap1_movsb_ok.png) | 1 | Salida "Copiado: HOLA, MUNDO!" con MOVSB |
+|  (capturas/cap2_movsw_ok.png) | 2 | Salida idéntica con MOVSW optimizado |
+|  (capturas/cap3a_scasb_hallado.png) | 3 | Búsqueda exitosa: posición 13 |
+|  (capturas/cap3b_scasb_no_hallado.png) | 3 | Búsqueda fallida: "No encontrado." |
+|  (capturas/cap4_cmpsb_ok.png) | 4 | "Iguales." y "Diferentes." correctos |
