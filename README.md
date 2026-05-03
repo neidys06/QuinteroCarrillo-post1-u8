@@ -164,10 +164,17 @@ Diferentes.
 
 ## Capturas de Pantalla
 
-| Archivo | Checkpoint | Descripción |
-|---------|-----------|-------------|
-| (capturas/cap1_movsb_ok.png) | 1 | Salida "Copiado: HOLA, MUNDO!" con MOVSB |
-|  (capturas/cap2_movsw_ok.png) | 2 | Salida idéntica con MOVSW optimizado |
-|  (capturas/cap3a_scasb_hallado.png) | 3 | Búsqueda exitosa: posición 13 |
-|  (capturas/cap3b_scasb_no_hallado.png) | 3 | Búsqueda fallida: "No encontrado." |
-|  (capturas/cap4_cmpsb_ok.png) | 4 | "Iguales." y "Diferentes." correctos |
+### Checkpoint 1 — REP MOVSB
+![Copia con MOVSB](capturas/cap1_movsb_ok.png)
+
+### Checkpoint 2 — REP MOVSW optimizado
+![Copia con MOVSW](capturas/cap2_movsw_ok.png)
+
+### Checkpoint 3 — REPNE SCASB (carácter hallado)
+![SCASB hallado](capturas/cap3a_scasb_hallado.png)
+
+### Checkpoint 3 — REPNE SCASB (no encontrado)
+![SCASB no hallado](capturas/cap3b_scasb_no_hallado.png)
+
+### Checkpoint 4 — REPE CMPSB
+![CMPSB comparación](capturas/cap4_cmpsb_ok.png)
